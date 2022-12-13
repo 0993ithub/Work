@@ -1,0 +1,181 @@
+.main-header{
+text-align: center;
+background-color: rgb(251, 255, 0);
+width: 1920px;
+height: 120px;
+}
+
+
+.main-div{
+ 
+width: 1160px;
+height: 1720px;
+margin-left: 360px;
+margin-right: 400px; 
+}
+
+.title{
+background-color: aquamarine;
+
+margin: 0;
+ 
+}
+
+.txt{
+margin: 0;
+background-color: #98caca;
+}
+
+
+
+.block-1 {
+margin-left: 40px;
+margin-top: 80px;
+display: grid;
+width: 1040px;
+height: 640px;
+margin-top: 80px;
+}
+
+.title_1 {
+width: 400px;
+height: 40px;
+justify-self: end;
+margin-right: 40px;
+}
+
+.block-1_item_1 {
+display: flex;
+justify-content: space-between;
+width: 1040px;
+height: 640px;
+margin-top: 40px;
+}
+
+.block-1_subitem {
+width: 800px;
+height: 640px;
+margin-left: 40px;
+
+}
+
+.block-1_subitem_1 {
+width: 800px;
+height: 200px;
+display: flex;
+justify-content: space-between;
+}
+
+.img-holder_1 {
+width: 240px;
+height: 200px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.txt_1 {
+width: 480px;
+height: 200px;
+}
+
+.block-1_subitem_2 {
+width: 800px;
+height: 400px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+margin-top: 40px;
+}
+
+.txt_2 {
+height: 240px;
+width: 800px;
+}
+
+.txt_3 {
+width: 800px;
+height: 80px;
+}
+
+
+.block-2 {
+margin-left: 40px;
+margin-top: 120px;
+width: 960px;
+height: 360px;
+}
+
+.block-2_item_1 {
+width: 960px;
+height: 360px;
+
+display:flex;
+justify-content: space-between;
+}
+
+.block-2_subitem {
+height: 360px;
+width: 520px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+
+.title_2 {
+width: 520px;
+height: 40px;
+}
+
+.txt_4 {
+width: 520px;
+height: 240px;
+}
+
+
+
+.block-3 {
+margin-left: 40px;
+margin-top: 40px;
+}
+
+.block-3_item_1 {
+width: 1040px;
+height: 440px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+.txt_5 {
+width: 1040px;
+height: 200px;
+}
+
+.block-3_subitem {
+width: 1040px;
+height: 200px;
+display: flex;
+
+justify-content:space-between ;
+margin-top: 40px;
+}
+
+.txt_6 {
+width: 240px;
+height: 200px;
+}
+
+.txt_7 {
+width: 360px;
+height: 200px;
+}
+
+
+.main-footer{
+width: 1920px;
+height: 160px;
+text-align: center;
+background-color:red;
+}
