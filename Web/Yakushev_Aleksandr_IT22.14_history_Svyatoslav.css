@@ -1,0 +1,214 @@
+.fonzagolovka
+{
+position: relative;
+right: -5%;
+left: auto;
+width: 90%;
+height: 300px;
+outline: 10px;
+outline: 30px solid darkgreen;
+}
+.title
+{
+    position: relative;
+    bottom: 140px;
+    text-align: center;
+    height: 30px;
+    font: bold;
+    font-size: 100px;
+    color: white;
+    
+}
+
+ .html
+{
+    background-image: url(/home/user/Downloads/Roerich_Book.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+.ocheloveke
+{
+    position: relative;
+    top: 30px;
+    margin: auto;
+    width: 90%;
+    background-color: aquamarine;
+    color: black;
+    padding-bottom: 40px;
+}
+
+.main
+ 
+{
+    background-color: darkgreen;
+    width: 80%;
+    height: auto;
+    margin: auto;
+    padding-bottom: 40px;
+}
+
+
+.odeyatelnosty
+{
+    position: relative;
+    top: 30px;
+    margin: auto;
+    width: 90%;
+    min-height: auto;
+background-color: aqua;
+color: black;
+}
+
+.smert_knyaza
+
+{
+position: relative;
+    top: 30px;
+    margin: auto;
+    width: 90%;
+    height: auto;
+background-color: white;
+color: black;
+}
+
+
+.obshaya_inf
+{
+    position: relative;
+    left: 3%;
+    width: 600px;
+bottom: -50px;
+    background-color: #013220;
+    color: white;
+}
+    
+
+
+.vneshnost
+{
+    width: 500px;
+    position: relative;
+    right: -750px;
+    left: auto;
+    top: 70px;
+    background-color: #013220;
+    color: white;
+}
+
+.knaz
+{
+    position: relative;
+    top: -600px;
+    right: -750px;
+    left: auto;
+    width: 600px;
+    height: 300px;
+}
+
+.lichnost
+{
+    position: relative;
+    bottom: -70px;
+    background-color: #013220;
+    color: white;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: -280px;
+}
+
+.knaz2
+{
+   position: relative;
+   top: -250px;
+   bottom: auto
+width: 500px;
+right: auto;
+
+height: 300px;
+left: -500px;
+}
+
+
+.hazar
+{
+    position: relative;
+    left: 3%;
+    width: 600px;
+bottom: -50px;
+    background-color: #013220;
+    color: white; 
+}
+
+.headliner
+{
+    text-align: center;
+    background-color: white;
+}
+
+
+.bolgar
+{
+    position: relative;
+    left: 730px;
+    width: 600px;
+bottom: 370px;
+    background-color: #013220;
+    color: white; 
+
+}
+
+.vizant
+{position: relative;
+    bottom: 300px;
+    background-color: #013220;
+    color: white;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+   }
+
+.i878
+{
+    position: relative;
+    right: -260px;
+    height: 480px;
+    weight: 640px;
+}
+
+
+
+.footer
+{
+    right: auto;
+    left: auto;
+    height: 200px;
+    
+background-color: darkgreen;
+}
+
+.textsmert
+{
+    background-color: #013220;
+    color: white; 
+}
+
+.gibel
+{
+    margin-left: 550px;
+    margin-right: auto;
+}
+
+
+.textinfooter
+{
+color: white;
+font-size: large;
+}
